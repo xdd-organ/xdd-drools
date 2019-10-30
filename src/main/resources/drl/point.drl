@@ -1,4 +1,4 @@
-package drl
+package rules
 import com.java.xdd.drools.bean.Person                    // 导入类
    dialect  "mvel"
 

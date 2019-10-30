@@ -62,16 +62,19 @@
             <groupId>org.drools</groupId>
             <artifactId>drools-compiler</artifactId>
             <version>6.5.0.Final</version>
-            <scope>system</scope>
-            <systemPath>D:/zhuangji/java_app/maven/MyRainbow/mvn_repositorydeploy/org/drools/drools-compiler/6.5.0.Final/drools-compiler-6.5.0.Final.jar</systemPath>
         </dependency>
-        <dependency>
-            <groupId>org.drools</groupId>
-            <artifactId>drools-core</artifactId>
-            <version>6.5.0.Final</version>
-            <scope>system</scope>
-            <systemPath>D:/zhuangji/java_app/maven/MyRainbow/mvn_repositorydeploy/org/drools/drools-core/6.5.0.Final/drools-core-6.5.0.Final.jar</systemPath>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.drools</groupId>-->
+            <!--<artifactId>drools-compiler</artifactId>-->
+            <!--<version>6.3.0.Final</version>-->
+            <!--<scope>system</scope>-->
+            <!--<systemPath>D:/zhuangji/java_app/maven/MyRainbow/mvn_repositorydeploy/org/drools/drools-compiler/6.5.0.Final/drools-compiler-6.5.0.Final.jar</systemPath>-->
+        <!--</dependency>-->
+        <!--<dependency>-->
+            <!--<groupId>org.drools</groupId>-->
+            <!--<artifactId>drools-core</artifactId>-->
+            <!--<version>6.5.0.Final</version>-->
+        <!--</dependency>-->
     </dependencies>
     <!-- 设定插件仓库 -->
     <pluginRepositories>
